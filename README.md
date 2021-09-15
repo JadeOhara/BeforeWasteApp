@@ -3,7 +3,7 @@
 <p align="center">Aplicativo Android para Evitar Desperdício Doméstico de Produtos Perecíveis</p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/88908627/133351187-a16b0d28-384b-4b29-bbc4-a885f5f328de.png" width="150px" height="150px">
+<img src="https://user-images.githubusercontent.com/88908627/133351187-a16b0d28-384b-4b29-bbc4-a885f5f328de.png" width="200px" height="200px">
 </div>
                                                                                                                 
 <p align="center">
