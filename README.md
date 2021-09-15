@@ -8,9 +8,7 @@
                                                                                                                 
 <p align="center">
       <h3 align="center">Trabalho de Conclusão de Curso Engenharia da Computação</h3>
-    <h2 align="center">Unipinhal</h3>
-    <p align="center">
-       2013-2017
-    <br />
+    <p align="center">Unipinhal</p>
+    <p align="center">2013-2017<br/>
    </p>
 <p>
