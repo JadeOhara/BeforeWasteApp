@@ -1,6 +1,6 @@
 
 # <p align="center">BeforeWasteApp</p>
-## <p align="center">Aplicativo Android para Evitar Desperdício Doméstico de Produtos Perecíveis</p>
+<p align="center">Aplicativo Android para Evitar Desperdício Doméstico de Produtos Perecíveis</p>
 
 # <h4 align="center">Trabalho de Conclusão de Curso Engenharia da Computação - 2013-2017 - Unipinhal</h4>
 
