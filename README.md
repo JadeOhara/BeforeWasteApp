@@ -7,13 +7,13 @@
 </div>
                                                                                                                 
 <p align="center">
-      <h3 align="center">Trabalho de Conclusão de Curso Engenharia da Computação</h3>
+      <h4 align="center">Trabalho de Conclusão de Curso Engenharia da Computação</h3>
     <p align="center">Unipinhal</p>
     <p align="center">2013-2017<br/>
    </p>
 <p>
   
-  ## 🔥 Como ver o app
+  ##  Como abrir o código do app
 
 1. Faça um clone desse repositório;
    ```sh
