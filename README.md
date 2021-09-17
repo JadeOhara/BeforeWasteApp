@@ -7,13 +7,13 @@
 </div>
                                                                                                                 
 <p align="center">
-      <h4 align="center">Trabalho de Conclusão de Curso Engenharia da Computação</h3>
+      <h4 align="center">Trabalho de Conclusão de Curso Engenharia da Computação</h4>
     <p align="center">Unipinhal</p>
     <p align="center">2013-2017<br/>
    </p>
 <p>
   
-  ##  Como abrir o código do app
+<h2 align="center"> Como abrir o código do app </h2>
 
 1. Faça um clone desse repositório;
    ```sh
@@ -33,3 +33,9 @@
   
 5. Alterne entre Designer e Blocos no canto superior direito para ver a tela e o código
  
+<h2 align="center"> Telas </h2>
+  
+![App 02](https://user-images.githubusercontent.com/88908627/133746938-3f8d92c4-5f40-4d7a-b190-50deb121e932.png)
+![App1](https://user-images.githubusercontent.com/88908627/133746953-949419c5-2246-48db-9a29-030a26dd2509.png)
+
+
